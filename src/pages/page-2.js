@@ -19,7 +19,7 @@ const H1 = styled.h1`
   transition: 0.4s;
 
   &:hover {
-    background-color: #ff0;
+    background-color: #ffff0044;
     box-shadow: 3px 3px 5px #aaa;
     width: 100%;
     letter-spacing: 0.2em;
